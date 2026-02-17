@@ -1,12 +1,12 @@
 # PQ Attestation Adapter (PQAA)
 
-**Version:** 1.0.0
-**Status:** STANDALONE — Migration Layer
-**Date:** 2026
-**Author:** rosiea
-**Contact:** [PQRosie@proton.me](mailto:PQRosie@proton.me)
-**Licence:** Apache License 2.0 — Copyright 2026 rosiea
-**PQ Ecosystem:** STANDALONE (Evidence Producer Only)
+* **Specification Version:** 1.0.0
+* **Status:** Implementation Ready
+* **Date:** 2026
+* **Author:** rosiea
+* **Contact:** [PQRosie@proton.me](mailto:PQRosie@proton.me)
+* **Licence:** Apache License 2.0 — Copyright 2026 rosiea
+* **PQ Ecosystem:** STANDALONE — Evidence Producer Only
 
 ---
 
